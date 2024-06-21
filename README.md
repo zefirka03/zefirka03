@@ -1,5 +1,5 @@
 <h1 align="center">:sparkles: Hi :v:, I'm Kostas :blush:</h1>
-<p align="center">Software engineer</p>
+<p align="center">Software engineer(will be)</p>
 
 ---
 
