@@ -1,4 +1,4 @@
-<h1 align="center">:sparkles: Hi :v:, I'm Kostas :blush:</h1>
+<h1 align="center">Kostas</h1>
 <p align="center">Software engineer(will be)</p>
 
 ---
