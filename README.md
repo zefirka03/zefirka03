@@ -1,5 +1,5 @@
 <h1 align="center">Kostas</h1>
-<p align="center">Software engineer(will be)</p>
+<p align="center">Software engineer</p>
 
 ---
 
@@ -17,6 +17,6 @@
 
 ---
 
-I like to do **computer graphics** and **low-level programming**<br />
+I do **computer graphics**, **AI** and **low-level programming**<br />
 <br />
 
